@@ -19,3 +19,9 @@ mi = si/ti
 mp = sp/tp
 
 console.log(`O total de números pares é ${tp} a soma é ${sp} e a media é ${mp} enquanto total de números ímpares é ${ti} a soma é ${sp} e a media é ${mi}`)
+
+
+
+
+let nome 
+console.log(kaloa)
